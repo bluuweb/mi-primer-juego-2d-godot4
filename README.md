@@ -1,5 +1,9 @@
 # Mi primer juego 2D en Godot 4
 
+## Preview
+
+- [Revisa el juego aquí](https://primerjuegocongodot4.netlify.app/)
+
 ## Build
 
 Ya se encuentra la carpeta build, aquí se encuentra el ejecutable del juego en HTML.
